@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Molly-Ngampit Sutthasilp 
+logo: "/images/logo.jpg?raw=true" 
+description: > 
   First description 
-  <br><br>
+  <br>I’m a detail oriented web-developer with 12+ years background in IT and Engineering. I’m passionate about coding<br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>I possess more than 12+ years of IT and engineering experience, with three recent years in BI development and data analytics in various industries. My strength and passion are in coding skills.  I am a quick learner and enjoy working as a team to overcome more significant challenges for its success and the company. <br>
+  <a href="https://linkedin.com/in/mollyngampit/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
